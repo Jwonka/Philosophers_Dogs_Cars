@@ -1,0 +1,16 @@
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.exe
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.deps.json
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.runtimeconfig.json
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.dll
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.pdb
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.Philosophers_Dogs_Cars_Lab_Form.resources
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.csproj.GenerateResource.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.AssemblyInfoInputs.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.AssemblyInfo.cs
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.csproj.CoreCompileInputs.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.dll
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\refint\Philosophers_Dogs_Cars_Lab.dll
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.pdb
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\Philosophers_Dogs_Cars_Lab.genruntimeconfig.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\ref\Philosophers_Dogs_Cars_Lab.dll

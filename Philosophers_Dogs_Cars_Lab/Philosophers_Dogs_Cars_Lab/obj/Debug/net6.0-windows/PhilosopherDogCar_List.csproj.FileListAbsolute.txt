@@ -1,0 +1,16 @@
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\PhilosopherDogCar_List.exe
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\PhilosopherDogCar_List.deps.json
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\PhilosopherDogCar_List.runtimeconfig.json
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\PhilosopherDogCar_List.dll
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\bin\Debug\net6.0-windows\PhilosopherDogCar_List.pdb
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.PhilosopherDogCarListForm.resources
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.csproj.GenerateResource.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.AssemblyInfoInputs.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.AssemblyInfo.cs
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.csproj.CoreCompileInputs.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.dll
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\refint\PhilosopherDogCar_List.dll
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.pdb
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\PhilosopherDogCar_List.genruntimeconfig.cache
+C:\.NET\Philosophers_Dogs_Cars_Lab\Philosophers_Dogs_Cars_Lab\obj\Debug\net6.0-windows\ref\PhilosopherDogCar_List.dll

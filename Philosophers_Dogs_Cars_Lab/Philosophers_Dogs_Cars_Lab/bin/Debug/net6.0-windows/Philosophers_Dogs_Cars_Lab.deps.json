@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Philosophers_Dogs_Cars_Lab/1.0.0": {
+        "runtime": {
+          "Philosophers_Dogs_Cars_Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Philosophers_Dogs_Cars_Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
